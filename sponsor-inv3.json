@@ -141,6 +141,31 @@
 				"billDate": "2025-06-05",
 				"dueDate": "2025-06-08",
 				"id": "inv0"
+			},
+			{
+				"amount": 550,
+				"balanceDue": 550,
+				"balances": [
+					{
+						"amount": 550,
+						"balanceDue": 550,
+						"itemCode": "speciality",
+						"itemDescription": "speciality fee",
+						"invoiceId": "inv0",
+						"students": [
+							{
+								"id": "s4",
+								"firstName": "janine",
+								"lastName": "de"
+							}
+						],
+						"termCode": "spring",
+						"termDescription": "spring"
+					}
+				],
+				"billDate": "2025-06-05",
+				"dueDate": "2025-06-08",
+				"id": "inv4"
 			}
 		],
 		"name": "California State Sponsorship (name)",
